@@ -14,7 +14,7 @@
   ],
   "dependencies": {
     "chalk": "^2.0.1",
-    "sequelize": "^4.4.2",
+    "sequelize": "^5.8.11",
     "sequelize-cli": "^2.7.0"
   },
   "devDependencies": {
